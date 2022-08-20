@@ -2,4 +2,10 @@
  height: 90vh;
  width: 100vmax;
  background-color:darkslategray;
+
+}
+
+.titulo {
+    background-color: rgb(143, 154, 175);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
